@@ -6,7 +6,9 @@ This Python script utilizes the Telethon library to connect to the Telegram API 
 
 Lists the names and IDs of all groups and channels (including supergroups) associated with the given credentials.
 Utilizes the Telethon library for efficient and authenticated communication with the Telegram API.
-Prerequisites
+
+## Prerequisites
+
 Before you begin, ensure you have the following:
 
 - Python 3.6 or newer installed on your system.
@@ -56,6 +58,7 @@ This script is meant for legitimate and authorized use cases, such as managing y
 ## Support
 
 For issues, questions, or contributions, please open an issue in the GitHub repository.
+
 Feedback and contributions are welcome!
 
 ## License
