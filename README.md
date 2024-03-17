@@ -55,7 +55,8 @@ This script is meant for legitimate and authorized use cases, such as managing y
 
 ## Support
 
-For issues, questions, or contributions, please open an issue in the GitHub repository. Your feedback and contributions are welcome!
+For issues, questions, or contributions, please open an issue in the GitHub repository.
+Feedback and contributions are welcome!
 
 ## License
 
